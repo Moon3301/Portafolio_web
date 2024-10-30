@@ -38,17 +38,12 @@ const tecnologias: Tecnologia[] = [
   },
   {
     name: 'Python',
-    path: '/img/react.png',
+    path: '/img/python.png',
     description: 'React es una biblioteca de JavaScript para construir interfaces de usuario. Se utiliza para crear y mantener aplicaciones web de una sola página.'
   },
   {
     name: 'TypeScript',
-    path: '/img/react.png',
-    description: 'React es una biblioteca de JavaScript para construir interfaces de usuario. Se utiliza para crear y mantener aplicaciones web de una sola página.'
-  },
-  {
-    name: 'IIS',
-    path: '/img/react.png',
+    path: '/img/typescript.png',
     description: 'React es una biblioteca de JavaScript para construir interfaces de usuario. Se utiliza para crear y mantener aplicaciones web de una sola página.'
   },
   {
