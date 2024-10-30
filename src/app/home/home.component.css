@@ -1,0 +1,15 @@
+.container {
+
+    margin-top: 100px;
+
+}
+
+.avatar {
+
+    background-image: 'img/test1.jpg';
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}
